@@ -1,17 +1,19 @@
-# CertFly
-Certificação de arquivo XML usando certificado do tipo A3.
+# CertFly - lib COM .NET #
 
-Lib para ser usada por qualquer liguagem com suporte a COM.
+# Descrição
 
-Lib COM desenvolvida em C# .NET 4.6.1.
+- Certificação de arquivo XML usando certificado do tipo A3.
 
+- Lib para ser usada por qualquer liguagem com suporte a COM.
 
-Metodo de chamada:
-  //Retorno: 0 - Sucesso 1- Erro
- int AssinarSha256A3(string AFilexml,                   // {Caminho do Arquivo xml para ser assinado}
-                 string AFilexmlOut,                    // {Caminho do destino do arquivo xml assinado}
-				 string tagAssinatura,  //  {Tag Assiantura}
-				 string AAtributoId,    // {Atributo Reference ID se necessario. Passe 0 para vazio}
-				 string ANumeroSerie,   // {Numero Serie Certificado A3}
-				 string Apin)           //  {Senha ou PIN do certificado A3}
+- Lib COM desenvolvida em C# .NET 4.6.1.
+
+**Metodo de chamada**
+  
+ - AssinarSha256A3(string AFilexml,    //  **{Caminho do Arquivo xml para ser assinado}**
+                string AFilexmlOut,    //  **{Caminho do destino do arquivo xml assinado}**
+		string tagAssinatura,  //  **{Tag Assiantura}**
+		string AAtributoId,    //  **{Atributo Reference ID se necessario. Passe 0 para vazio}**
+		string ANumeroSerie,   //  **{Numero Serie Certificado A3}**
+		string Apin)           //  **{Senha ou PIN do certificado A3}**
 
