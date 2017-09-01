@@ -8,8 +8,8 @@ Lib COM desenvolvida em C# .NET 4.6.1.
 
 Metodo de chamada:
   //Retorno: 0 - Sucesso 1- Erro
- int AssinarSha256A3(string AFilexml,   // {Caminho do Arquivo xml para ser assinado}
-                 string AFilexmlOut,    // {Caminho do destino do arquivo xml assinado}
+ int AssinarSha256A3(string AFilexml,                   // {Caminho do Arquivo xml para ser assinado}
+                 string AFilexmlOut,                    // {Caminho do destino do arquivo xml assinado}
 				 string tagAssinatura,  //  {Tag Assiantura}
 				 string AAtributoId,    // {Atributo Reference ID se necessario. Passe 0 para vazio}
 				 string ANumeroSerie,   // {Numero Serie Certificado A3}
