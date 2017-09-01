@@ -1,0 +1,4 @@
+C:\Fontes\Certfly\Certfly\Certfly\bin\Debug\Certfly.dll
+C:\Fontes\Certfly\Certfly\Certfly\bin\Debug\Certfly.pdb
+C:\Fontes\Certfly\Certfly\Certfly\obj\Debug\Certfly.dll
+C:\Fontes\Certfly\Certfly\Certfly\obj\Debug\Certfly.pdb
