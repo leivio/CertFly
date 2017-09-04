@@ -1,0 +1,27 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\Certfly.Certfly]
+@="Certfly.Certfly"
+
+[HKEY_CLASSES_ROOT\Certfly.Certfly\CLSID]
+@="{E8D53EED-3B2F-45A8-BB29-CC111BB426D1}"
+
+[HKEY_CLASSES_ROOT\CLSID\{E8D53EED-3B2F-45A8-BB29-CC111BB426D1}]
+@="Certfly.Certfly"
+
+[HKEY_CLASSES_ROOT\CLSID\{E8D53EED-3B2F-45A8-BB29-CC111BB426D1}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="Certfly.Certfly"
+"Assembly"="Certfly, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{E8D53EED-3B2F-45A8-BB29-CC111BB426D1}\InprocServer32\1.0.0.0]
+"Class"="Certfly.Certfly"
+"Assembly"="Certfly, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{E8D53EED-3B2F-45A8-BB29-CC111BB426D1}\ProgId]
+@="Certfly.Certfly"
+
+[HKEY_CLASSES_ROOT\CLSID\{E8D53EED-3B2F-45A8-BB29-CC111BB426D1}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]

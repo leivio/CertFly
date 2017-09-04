@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/20 09:31:33.000.864,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2017/02/20 09:31:35.000.228,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2017/03/27 10:12:08.000.233,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/03/28 10:07:12.000.710,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/12 13:42:08.000.252,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/12 14:05:56.000.165,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/12 14:09:18.000.351,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/12 14:12:27.000.351,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/12 15:02:57.000.413,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/12 15:26:27.000.696,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/17 14:20:28.000.855,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/04/24 08:29:30.000.715,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/22 11:25:31.000.063,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/08/10 16:51:52.000.976,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/08/30 17:41:28.000.852,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/08/30 17:41:43.000.449,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Unit2.pas=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/08/30 17:41:43.000.449,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Unit2.dfm=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017/08/30 17:41:44.000.528,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Project2.dproj=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2017/08/30 17:59:40.000.475,=C:\Users\Leivio\Documents\Embarcadero\Studio\19.0\Imports\Certfly_TLB.pas</Transaction>
+    <Transaction>2017/08/30 18:00:18.000.061,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Certfly_TLB.pas=C:\Users\Leivio\Documents\Embarcadero\Studio\19.0\Imports\Certfly_TLB.pas</Transaction>
+    <Transaction>2017/08/31 09:04:50.000.518,=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Unit1.pas</Transaction>
+    <Transaction>2017/08/31 09:05:03.000.706,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Certfly.pas=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Unit1.pas</Transaction>
+    <Transaction>2017/09/04 10:16:02.131,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\SampleCertFly.dproj=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Project2.dproj</Transaction>
+    <Transaction>2017/09/04 10:16:26.568,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\ExemploCertFly.dfm=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Unit2.dfm</Transaction>
+    <Transaction>2017/09/04 10:16:26.568,C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\ExemploCertFly.pas=C:\Users\Leivio\Documents\Embarcadero\Studio\Projects\ConsumirCertFly\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
