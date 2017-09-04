@@ -17,3 +17,8 @@
 		string ANumeroSerie,   //  **{Numero Serie Certificado A3}**
 		string Apin)           //  **{Senha ou PIN do certificado A3}**
 
+**Pode ser utilizado por liguagens com suporte a COM**
+
+- Veja Exemplos em Delphi na pasta "Samples"
+- Assinando documentos XML com certificado A3 e criptografia SHA256 com Delphi(object-pascal)
+
