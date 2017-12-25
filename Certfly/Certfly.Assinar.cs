@@ -144,7 +144,8 @@ namespace Certfly
              else
              {
                  reference.Uri = "#" + AAtributoId;
-             }           
+             }        
+            reference.DigestMethod = "http://www.w3.org/2001/04/xmlenc#sha256";
             reference.AddTransform(new XmlDsigEnvelopedSignatureTransform());
             reference.AddTransform(new XmlDsigC14NTransform(false));
             SignedDocument.AddReference(reference);
